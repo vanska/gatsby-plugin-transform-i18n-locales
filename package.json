@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-transform-i18n-locales",
   "description": "Transform i18n locale files in to gatsby nodes",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "author": "Mikko Vänskä <mikkovanska.com@gmail.com>",
   "dependencies": {
     "@babel/runtime": "^7.10.3"
